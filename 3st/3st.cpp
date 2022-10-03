@@ -55,9 +55,6 @@ int main(void)
         /*반지름이 r 인 원의 중심이 원점에 위치할 때
         원 위에 있는 임의의 한점은(rcosΘ, rsinΘ)으로 나타낼 수 있다.*/
 
-
-
-
         double rad = 1;  //반지름 rad
         glBegin(GL_LINE_STRIP);
         for (int i = 0; i < 360; i++)
@@ -69,6 +66,24 @@ int main(void)
         glVertex2f(x, y); 
         }
         glEnd();
+        //3주차
+
+
+        //double rad = 1;  //반지름 rad
+        glBegin(GL_LINE_STRIP);
+            double angle, x, y;
+            int i = 72;
+            angle = i * 3.141592 / 180;
+            x = rad * cos(angle);
+            y = rad * sin(angle);
+            glVertex2f(cos(0), sin(0));
+            glVertex2f(cos(144 * 3.141592 / 180), sin(144 * 3.141592 / 180));
+            glVertex2f(cos(288 * 3.141592 / 180), sin(288 * 3.141592 / 180));
+            glVertex2f(cos(72 * 3.141592 / 180), sin(72 * 3.141592 / 180));
+            glVertex2f(cos(216 * 3.141592 / 180), sin(216 * 3.141592 / 180));
+            glVertex2f(cos(0), sin(0));
+            glEnd();
+            //5주차
 
         //중점이 원점이 아닌 원(중점 좌표 cx,cy)
         //double cx = 0.2;
