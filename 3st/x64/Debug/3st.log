@@ -1,17 +1,17 @@
-﻿  3st.cpp
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(66,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(66,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(79,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(79,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(80,54): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(80,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(81,54): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(81,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(82,53): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(82,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(83,54): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(83,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(84,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(84,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\3st.cpp(53,17): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+﻿  6st.cpp
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(48,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(111,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(112,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(160,27): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(177,30): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(181,30): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(252,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   3st.vcxproj -> C:\Users\user\Desktop\3D\3st\3st\x64\Debug\3st.exe
