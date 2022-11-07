@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10st.cpp" />
     <ClCompile Include="3st.cpp" />
     <ClCompile Include="6st.cpp" />
   </ItemGroup>

@@ -1,17 +1,7 @@
-﻿  6st.cpp
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(48,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(111,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-          with
-          [
-              T=float
-          ]
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(112,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-          with
-          [
-              T=float
-          ]
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(160,27): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(177,30): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(181,30): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\user\Desktop\3D\3st\3st\3st\6st.cpp(252,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  10st.cpp
+C:\Users\user\Desktop\3D\3st\3st\3st\10st.cpp(8,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'float'입니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\10st.cpp(21,37): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\10st.cpp(21,37): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\10st.cpp(22,43): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\3D\3st\3st\3st\10st.cpp(22,43): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   3st.vcxproj -> C:\Users\user\Desktop\3D\3st\3st\x64\Debug\3st.exe

@@ -21,6 +21,9 @@
     <ClCompile Include="6st.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10st.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
