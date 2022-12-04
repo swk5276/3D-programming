@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(48,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(111,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(112,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(160,27): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(177,30): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(181,30): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\3D\3st\3st\12st\main.cpp(252,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  12st.vcxproj -> C:\Users\user\Desktop\3D\3st\3st\x64\Debug\12st.exe
